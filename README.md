@@ -150,6 +150,7 @@ Personal responsive portfolio website showcasing projects, skills, certification
 
 📧 Email: purandhar0408l@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/parchuru04
+
 🐙 GitHub: https://github.com/ParchuruPurandhar
 
 ---
